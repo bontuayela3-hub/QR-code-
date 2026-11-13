@@ -1,0 +1,26 @@
+body {
+    background-color: #d6e2f0;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    min-height: 100vh; 
+}
+    .container {
+    display: flex;
+    flex-direction:column; 
+    align-items: center; 
+    text-align: center; 
+    background-color: white;
+    width:90%;
+     max-width: 400px;
+    border-radius: 10px;
+
+}
+.paragraph{
+    color:#777e86;
+}
+.card-image{
+    width:100%;
+    border-radius: 5px;
+    display:block;
+}
